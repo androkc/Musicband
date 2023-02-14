@@ -1,0 +1,9 @@
+musicband
+musicband.command
+musicband.command.impl
+musicband.control
+musicband.control.enumcommands
+musicband.exceptions
+musicband.model
+musicband.util
+musicband.util.execute

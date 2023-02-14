@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"musicband"},{"l":"musicband.command"},{"l":"musicband.command.impl"},{"l":"musicband.control"},{"l":"musicband.control.enumcommands"},{"l":"musicband.exceptions"},{"l":"musicband.model"},{"l":"musicband.util"},{"l":"musicband.util.execute"}];updateSearchResults();
